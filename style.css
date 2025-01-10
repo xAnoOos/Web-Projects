@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.screen {
+    width: 750px;
+    height: 420px;
+    background-color: white;
+    text-align: start;
+    border: 2px solid rgb(112, 108, 101);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 90px;
+    border-radius: 50%;
+    border: 3px solid rgb(146, 145, 143);
+    border-style: double;
+    border-width: 10px;
+    background-color: aliceblue;
+    margin-left: 40px;
+
+}
+
+
+h1 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.topbox {
+    width: 750px;
+    height: 100px;
+    position: relative;
+    background-color: rgb(57, 149, 191);
+}
+
+i {
+    text-decoration: underline;
+}
+
+h1,
+h3,
+p,
+a {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
